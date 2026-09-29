@@ -1,16 +1,18 @@
-## Hi there 👋
+# Andrew Jeppesen (Drozax)
 
-<!--
-**Dr0zax/Dr0zax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andrew Jeppesen, a student at Brigham Young University-Idaho interested in Full-Stack Software Engineering, and I also produce electronic music on the side for fun. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been coding and making websites since I was 13. My first introduction to computers was a Raspberry Pi 3B+ I got for Christmas, and it was history from there.
+A year later, at 14, I wrote and self-published my first song; now I have three self-published albums and a spot on a community-driven compilation album from [Stereoscape Records](https://www.stereoscape-records.com/)
+
+## Technologies and Tools
+
+- Proficient in: | Python, JavaScript, C/C++, SQL, C#, HTML/CSS
+- Skills: NPM, MongoDB, PostgreSQL, SQLite, Node.js, Express, .NET, Blazor, ASP.NET, WASM
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/andrew-jeppesen/?isSelfProfile=true)
+- Here is my [Music](linktr.ee/drozax)
