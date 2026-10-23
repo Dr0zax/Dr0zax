@@ -15,4 +15,4 @@ A year later, at 14, I wrote and self-published my first song; now I have three 
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/andrew-jeppesen/?isSelfProfile=true)
-- Here is my [Music](linktr.ee/drozax)
+- Here is my [Music](https://linktr.ee/drozax)
