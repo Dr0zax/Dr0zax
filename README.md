@@ -9,8 +9,8 @@ A year later, at 14, I wrote and self-published my first song; now I have three 
 
 ## Technologies and Tools
 
-- Proficient in: | Python, JavaScript, C/C++, SQL, C#, HTML/CSS
-- Skills: NPM, MongoDB, PostgreSQL, SQLite, Node.js, Express, .NET, Blazor, ASP.NET, WASM
+- Proficient in: Python, JavaScript, C/C++, SQL, C#, HTML/CSS
+- Skills: NPM, MongoDB, PostgreSQL, SQLite, Node.js, Express.js, .NET, Blazor, ASP.NET Core, WebAssembly, Linux
 
 ## Let's Connect!
 
